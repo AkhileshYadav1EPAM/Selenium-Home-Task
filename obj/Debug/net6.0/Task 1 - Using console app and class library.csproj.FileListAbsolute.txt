@@ -1,0 +1,22 @@
+C:\Users\Akhilesh_Yadav1\Desktop\C# Example Codes\1 - Selenium projects\Task 1 - Using console app and class library\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\Akhilesh_Yadav1\Desktop\C# Example Codes\1 - Selenium projects\Task 1 - Using console app and class library\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\Akhilesh_Yadav1\Desktop\C# Example Codes\1 - Selenium projects\Task 1 - Using console app and class library\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Akhilesh_Yadav1\Desktop\C# Example Codes\1 - Selenium projects\Task 1 - Using console app and class library\bin\Debug\net6.0\Task 1 - Using console app and class library.deps.json
+C:\Users\Akhilesh_Yadav1\Desktop\C# Example Codes\1 - Selenium projects\Task 1 - Using console app and class library\bin\Debug\net6.0\Task 1 - Using console app and class library.dll
+C:\Users\Akhilesh_Yadav1\Desktop\C# Example Codes\1 - Selenium projects\Task 1 - Using console app and class library\bin\Debug\net6.0\Task 1 - Using console app and class library.pdb
+C:\Users\Akhilesh_Yadav1\Desktop\C# Example Codes\1 - Selenium projects\Task 1 - Using console app and class library\obj\Debug\net6.0\Task 1 - Using console app and class library.csproj.AssemblyReference.cache
+C:\Users\Akhilesh_Yadav1\Desktop\C# Example Codes\1 - Selenium projects\Task 1 - Using console app and class library\obj\Debug\net6.0\Task 1 - Using console app and class library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akhilesh_Yadav1\Desktop\C# Example Codes\1 - Selenium projects\Task 1 - Using console app and class library\obj\Debug\net6.0\Task 1 - Using console app and class library.AssemblyInfoInputs.cache
+C:\Users\Akhilesh_Yadav1\Desktop\C# Example Codes\1 - Selenium projects\Task 1 - Using console app and class library\obj\Debug\net6.0\Task 1 - Using console app and class library.AssemblyInfo.cs
+C:\Users\Akhilesh_Yadav1\Desktop\C# Example Codes\1 - Selenium projects\Task 1 - Using console app and class library\obj\Debug\net6.0\Task 1 - Using console app and class library.csproj.CoreCompileInputs.cache
+C:\Users\Akhilesh_Yadav1\Desktop\C# Example Codes\1 - Selenium projects\Task 1 - Using console app and class library\obj\Debug\net6.0\Task 1 - Using console app and class library.dll
+C:\Users\Akhilesh_Yadav1\Desktop\C# Example Codes\1 - Selenium projects\Task 1 - Using console app and class library\obj\Debug\net6.0\refint\Task 1 - Using console app and class library.dll
+C:\Users\Akhilesh_Yadav1\Desktop\C# Example Codes\1 - Selenium projects\Task 1 - Using console app and class library\obj\Debug\net6.0\Task 1 - Using console app and class library.pdb
+C:\Users\Akhilesh_Yadav1\Desktop\C# Example Codes\1 - Selenium projects\Task 1 - Using console app and class library\obj\Debug\net6.0\ref\Task 1 - Using console app and class library.dll
+C:\Users\Akhilesh_Yadav1\Desktop\C# Example Codes\1 - Selenium projects\Task 1 - Using console app and class library\bin\Debug\net6.0\Task 1 - Using console app and class library.exe
+C:\Users\Akhilesh_Yadav1\Desktop\C# Example Codes\1 - Selenium projects\Task 1 - Using console app and class library\bin\Debug\net6.0\Task 1 - Using console app and class library.runtimeconfig.json
+C:\Users\Akhilesh_Yadav1\Desktop\C# Example Codes\1 - Selenium projects\Task 1 - Using console app and class library\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Akhilesh_Yadav1\Desktop\C# Example Codes\1 - Selenium projects\Task 1 - Using console app and class library\bin\Debug\net6.0\WebDriver.Support.dll
+C:\Users\Akhilesh_Yadav1\Desktop\C# Example Codes\1 - Selenium projects\Task 1 - Using console app and class library\bin\Debug\net6.0\WebDriver.dll
+C:\Users\Akhilesh_Yadav1\Desktop\C# Example Codes\1 - Selenium projects\Task 1 - Using console app and class library\obj\Debug\net6.0\Task 1 - Using console app and class library.csproj.CopyComplete
+C:\Users\Akhilesh_Yadav1\Desktop\C# Example Codes\1 - Selenium projects\Task 1 - Using console app and class library\obj\Debug\net6.0\Task 1 - Using console app and class library.genruntimeconfig.cache
