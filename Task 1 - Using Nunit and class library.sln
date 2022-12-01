@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 1 - Using Nunit and class library", "Task 1 - Using Nunit and class library.csproj", "{1F3C9965-8D99-4205-82FE-D481C062F86A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chrome", "..\Chrome\Chrome.csproj", "{9117A3B7-CEFD-4DC3-B5C2-05F8CB2D6DEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firefox", "..\Firefox\Firefox.csproj", "{21FF4329-B429-4F0D-B28F-6E3ABBCDCD13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edge", "..\Edge\Edge.csproj", "{B27548FE-1A4B-4512-B55C-BFBF6D8E169C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F3C9965-8D99-4205-82FE-D481C062F86A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F3C9965-8D99-4205-82FE-D481C062F86A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F3C9965-8D99-4205-82FE-D481C062F86A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F3C9965-8D99-4205-82FE-D481C062F86A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9117A3B7-CEFD-4DC3-B5C2-05F8CB2D6DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9117A3B7-CEFD-4DC3-B5C2-05F8CB2D6DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9117A3B7-CEFD-4DC3-B5C2-05F8CB2D6DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9117A3B7-CEFD-4DC3-B5C2-05F8CB2D6DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21FF4329-B429-4F0D-B28F-6E3ABBCDCD13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21FF4329-B429-4F0D-B28F-6E3ABBCDCD13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21FF4329-B429-4F0D-B28F-6E3ABBCDCD13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21FF4329-B429-4F0D-B28F-6E3ABBCDCD13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B27548FE-1A4B-4512-B55C-BFBF6D8E169C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B27548FE-1A4B-4512-B55C-BFBF6D8E169C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B27548FE-1A4B-4512-B55C-BFBF6D8E169C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B27548FE-1A4B-4512-B55C-BFBF6D8E169C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FEC3825-2273-45DC-BE8C-380544B2628F}
+	EndGlobalSection
+EndGlobal
